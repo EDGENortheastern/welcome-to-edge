@@ -1,5 +1,5 @@
 # welcome-to-edge
-Thus is a repo we can use to tall people about what we do 
+Thus is a repo we can use to tall people about important things in the University. 
 
-##importantrepos
+##importantrepositories
 - tba
